@@ -1,0 +1,25 @@
+body {
+    padding-top: 35%;
+    background-color: pink;
+    text-align: center;
+    /* font-family: monospace; */ 
+}
+
+button {
+    border-radius: 3px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+#time-left {
+    font-family: monospace;
+    font-size: 25px;
+    text-transform: ;
+}
+
+header {
+    font-size: 40px;
+    font-family: cursive;
+}
+
